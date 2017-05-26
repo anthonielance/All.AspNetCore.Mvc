@@ -1,5 +1,5 @@
-﻿ALL ASP.NET Core Routing
+﻿ALL ASP.NET Core Mvc
 ===
 
-Contains additional routing classes for routing request to application logic.
+Contains additional mvc classes for ASP.NET Core MVC.
 
